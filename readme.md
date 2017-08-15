@@ -1,4 +1,4 @@
-##Laravel boilerplate
+#Laravel boilerplate
 Simple boilerplate project with:
 * Laravel 5.4
 * Predis 
@@ -6,7 +6,7 @@ Simple boilerplate project with:
 * VueJs 
 * Bootstrap Sass
 
-###Configuration
+##Configuration
 >Replace all occurences of boilerplate with your project's name
 #### Laravel docker-compose.yml
 ```yaml
